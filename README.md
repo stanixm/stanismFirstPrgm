@@ -1,0 +1,2 @@
+# stanismFirstPrgm
+my first cprogramming 
